@@ -1,4 +1,4 @@
-## 팀소개 및 페이지를 꾸며주세요.
+##Rooom
 
 - 프로젝트 소개
   - 프로젝트 설치방법 및 데모, 사용방법, 프리뷰등을 readme.md에 작성.
@@ -13,9 +13,7 @@
   - Theme Chooser에서 태마선택
   - 수정후 팀페이지 확인하여 점검.
 
-**팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
-
-**예시)** 2020년 0조  https://kookmin-sw.github.io/capstone-2020-0/
+**팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2020-20/
 
 
 ## 내용에 아래와 같은 내용들을 추가하세요.
