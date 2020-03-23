@@ -26,11 +26,13 @@
 
 ### 2. 소개 영상
 
-프로젝트 소개하는 영상을 추가하세요
+
 
 ### 3. 팀 소개
 
 허 민(팀장)
+
+![KakaoTalk_20200323_212230247](https://user-images.githubusercontent.com/21411732/77316468-d19eaa80-6d4c-11ea-906b-e35a2106c3fa.jpg)
 
 - 학번 : 20153241
 - 역할 : 팀장 및 Web back-end(Spring Boot with REST API, mysql, JDBC, JPA)
