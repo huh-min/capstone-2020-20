@@ -73,6 +73,12 @@
 
 - 한준호
 
+```
+ @ 학번 : 20153239
+ @ 역할 : Web back-end(Spring Boot with REST API, mysql, JDBC, JPA) 담당
+ @ 이메일 : karryone@kookmin.ac.kr
+```
+
 ### 4. 사용법
 
 소스코드제출시 설치법이나 사용법을 작성하세요.
