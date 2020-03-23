@@ -35,18 +35,23 @@
 마지막으로 직관적인 정보 제공을 통해 접근성을 높이고, 사용자의 '편의성'과 '활용성'에 초점을 둔 서비스를 개발하고자 합니다. 
 이는 결과적으로 단순히 특정 목적(학업, 기업 등)을 가진 팀 활동뿐만 아니라 여러 단체 활동, 사교 모임, 조직 등 에서 다방면으로 활용될 것이라 생각합니다.
 
-## 2. 소개 영상
+## 2. Abstract
 
+## 3. 소개 영상
 
+업로드 예정
 
-## 3. 팀 소개
+## 4. 팀 소개
 
+- 지도 교수님
+
+- 팀원
 ![thumb_150x150_q7nbyx_rv3u-yvmw28_KakaoTalk20200323212230247](https://user-images.githubusercontent.com/21411732/77316722-4540b780-6d4d-11ea-80e8-7937acef284b.jpg)
-- 허 민(팀장)
-- 학번 : 20153241
-- 역할 : 팀장 및 Web back-end(Spring Boot with REST API, mysql, JDBC, JPA)
-- 이메일 : huhmin9094@kookmin.ac.kr
-- 한마디 : 아쉬움없이 해보겠습니다.
+ 허 민(팀장)
+ 학번 : 20153241
+ 역할 : 팀장 및 Web back-end(Spring Boot with REST API, mysql, JDBC, JPA)
+ 이메일 : huhmin9094@kookmin.ac.kr
+ 한마디 : 아쉬움없이 해보겠습니다.
 
 
 ### 4. 사용법
