@@ -54,9 +54,8 @@
 
 ```
  @ 학번 : 20153241
- @ 역할 : 팀장 및 Web back-end(Spring Boot with REST API, mysql, JDBC, JPA)
+ @ 역할 : 팀장 및 Web back-end(Spring Boot with REST API, mysql, JDBC, JPA) 담당
  @ 이메일 : huhmin9094@kookmin.ac.kr
- @ 한마디 : 아쉬움없이 해보겠습니다.
 ```
 
 - 윤수민
