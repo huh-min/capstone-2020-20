@@ -31,11 +31,10 @@
 ### 3. 팀 소개
 
 허 민(팀장)
-![KakaoTalk_20191119_110611486](https://user-images.githubusercontent.com/21411732/77316097-19710200-6d4c-11ea-8335-65e8cfda5163.jpg)
 
-- 학번 20153241
-- 역할 팀장 및 백
-- 이메일 huhmin9094@kookmin.ac.kr
+- 학번 : 20153241
+- 역할 : 팀장 및 Web back-end(Spring Boot with REST API, mysql, JDBC, JPA)
+- 이메일 : huhmin9094@kookmin.ac.kr
 - 한마디 : 아쉬움없이 해보겠습니다.
 
 
