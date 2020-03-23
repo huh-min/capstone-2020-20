@@ -16,7 +16,9 @@
 **팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2020-20/
 
 
-## 내용에 아래와 같은 내용들을 추가하세요.
+## Rooom
+
+**팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2020-20/
 
 ### 1. 프로잭트 소개
 
