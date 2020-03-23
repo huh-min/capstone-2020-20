@@ -43,16 +43,26 @@
 
 ## 4. 팀 소개
 
-- 지도 교수님
+### 지도 교수님
+- 윤성혜 교수님
+### 팀 구성
 
-- 팀원
+- 허민 (팀장)
+
 ![thumb_150x150_q7nbyx_rv3u-yvmw28_KakaoTalk20200323212230247](https://user-images.githubusercontent.com/21411732/77316722-4540b780-6d4d-11ea-80e8-7937acef284b.jpg)
- 허 민(팀장)
+ 
  학번 : 20153241
  역할 : 팀장 및 Web back-end(Spring Boot with REST API, mysql, JDBC, JPA)
  이메일 : huhmin9094@kookmin.ac.kr
  한마디 : 아쉬움없이 해보겠습니다.
 
+- 윤수민
+
+- 이지훈
+
+- 조가성
+
+- 한준호
 
 ### 4. 사용법
 
